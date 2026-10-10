@@ -4,6 +4,7 @@
     "email": "shirasahamed63@gmail.com"
   },
   "records": {
-    "CNAME": "horizon-edge.shirasahamed63.workers.dev"
-  }
+    "CNAME": "n1.eclipsesystems.org"
+  },
+  "proxied": false
 }
